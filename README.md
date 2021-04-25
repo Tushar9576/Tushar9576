@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Machine Learning
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Maths and Physics(board 95 marks ,phy topper)
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 📫 How to reach me: Through your resources
+- 😄 Pronouns: Tushar kent 
 - ⚡ Fun fact: I drink Water
 -->
