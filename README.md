@@ -7,7 +7,6 @@
 - 👨🏻‍🎓Pursuing Electronics and Telecommunication Engineering
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Machine Learning
-- 🤔 I’m looking for help with 
 - 💬 Ask me about Maths and Physics
 - 📫 How to reach me: Through your resources
 - 😄 Pronouns: Tushar kent 
