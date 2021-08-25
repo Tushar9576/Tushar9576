@@ -8,6 +8,4 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Machine Learning
 - 💬 Ask me about Maths and Physics
-- 📫 How to reach me: Through your resources
-- 😄 Pronouns: Tushar kent 
-- ⚡ Fun fact: I drink Water
+- 📫 How to reach me: Through E-mails
