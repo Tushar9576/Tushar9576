@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tushar9576" alt="Tushar9576" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tushar9576&show_icons=true&count_private=true&theme=radical ">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar9576&theme=dark&hide_langs_below=1" />
