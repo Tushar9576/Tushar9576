@@ -19,9 +19,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar9576&" alt="Tushar9576" /></p>
 
 
-- 🔭 I’m currently working on Jupyter Notebook and on Mathematics formulae 
+- 🔭 I’m currently working on Data Science 
 - 👨🏻‍🎓Pursuing Electronics and Telecommunication Engineering
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Machine Learning
-- 💬 Ask me about Maths and Physics
+- 💬 Ask me about Mathematics and Physics
 - 📫 How to reach me: Through E-mails
