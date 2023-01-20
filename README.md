@@ -23,5 +23,5 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Machine Learning
 - 💬 Ask me about Mathematics and Physics
-- On a strict diet of Cold Pizza and Coffee.
+- On a strict diet of Cold Pizza 🍕 and Coffee ☕️.
 - 📫 How to reach me: Through E-mails
