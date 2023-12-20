@@ -19,7 +19,7 @@
 
 
 - 🔭 I’m currently working on Data Science 
-- 👨🏻‍🎓Pursuing Electronics and Telecommunication Engineering
+- 👨🏻‍🎓Electronics and Telecommunication Engineering Graduate
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Machine Learning
 - 💬 Ask me about Mathematics and Physics
